@@ -1,2 +1,3 @@
 # GTD
-AI
+
+In the drawing phase
